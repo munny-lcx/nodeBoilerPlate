@@ -11,7 +11,7 @@ const cookieParser = require('cookie-parser');
 const errHndlr = require('./src/utils/errors');
 require('winston-daily-rotate-file');
 require('dotenv').config();
-
+// munny
 // mongodb config
 require('./config/db');
 
